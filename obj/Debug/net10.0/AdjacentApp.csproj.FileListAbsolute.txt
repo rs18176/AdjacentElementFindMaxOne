@@ -1,0 +1,14 @@
+c:\PractiseProgram\AdjacentApp\bin\Debug\net10.0\AdjacentApp.exe
+c:\PractiseProgram\AdjacentApp\bin\Debug\net10.0\AdjacentApp.deps.json
+c:\PractiseProgram\AdjacentApp\bin\Debug\net10.0\AdjacentApp.runtimeconfig.json
+c:\PractiseProgram\AdjacentApp\bin\Debug\net10.0\AdjacentApp.dll
+c:\PractiseProgram\AdjacentApp\bin\Debug\net10.0\AdjacentApp.pdb
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.AssemblyInfoInputs.cache
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.AssemblyInfo.cs
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.csproj.CoreCompileInputs.cache
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.dll
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\refint\AdjacentApp.dll
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.pdb
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\AdjacentApp.genruntimeconfig.cache
+c:\PractiseProgram\AdjacentApp\obj\Debug\net10.0\ref\AdjacentApp.dll
